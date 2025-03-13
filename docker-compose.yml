@@ -1,5 +1,5 @@
 my-gotty:
-  hostname: gotty
+  hostname: strengthcloud
   ports:
   - 8989:8080
   tty: true
